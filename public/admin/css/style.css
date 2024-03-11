@@ -1,0 +1,31 @@
+.navbar{background-color: #2d3436 }
+.navbar-brand,
+.navbar-brand:focus,
+.navbar-brand:hover,
+.nav-link,
+.nav-link:focus,
+.nav-link:hover,
+.navbar-nav .nav-link.active,
+.navbar-nav .nav-link.show{color: #ecf0f1}
+.navbar-toggler {background-color: #fafafa}
+h1{color: #2d3436}
+.article-container h4{color: #6D848A}
+.article-container table{border: 1px solid #6D848A}
+.article-container a,
+.article-container thead tr th{background-color: #4b4b4b; color: #ecf0f1;     font-size: 15px}
+.article-container tbody tr th, 
+.article-container tbody tr td{color: #4b4b4b; font-size: 15px}
+.content{ padding: 100px 0}
+.photos-table{margin: 25px auto;  border: 1px solid #2d3436}
+.content .btn {
+    color: #ecf0f1;
+    background-color: #2d3436;
+    border-color: #2d3436
+}
+footer{
+    position:fixed;
+    bottom: 0;
+    width: 100%
+}
+footer,
+footer a{background-color: #2d3436; color: #cacccd; font-size: 12px}
